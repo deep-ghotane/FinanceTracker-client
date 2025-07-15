@@ -15,7 +15,6 @@ const Signup = () => {
           {/* fignup form */}
           <SignupForm />
         </Col>
-        <Col md={6}></Col>
       </Row>
     </Container>
   );
